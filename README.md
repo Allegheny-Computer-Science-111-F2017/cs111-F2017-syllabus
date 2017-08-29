@@ -15,19 +15,18 @@ Since this repository primarily contains LaTeX source code, the Travis CI
 configuration for it will compile the source code and automatically release a
 PDF of the source code whenever the last commit is associated with a [Git
 Tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging). As such, this will
-cause a PDF file to become available in the listing of
-the [Releases](https://github.com/Allegheny-Computer-Science-111-F2017/cs111-F2017-labs/releases)
+cause a PDF file to become available in the listing of the
+[Releases](https://github.com/Allegheny-Computer-Science-111-F2017/cs111-F2017-syllabs/releases)
 for this repository. All release numbers in this repository adhere to the
 [Semantic Versioning](http://semver.org/) standard.
 
 ## Problems or Praise
 
 If you have any problems with compiling the syllabus, then please create an
-issue in this repository using the "Issues" link at the top of this site.
-Please note that this syllabus has been developed and tested on an Ubuntu 16.04
+issue in this repository using the "Issues" link at the top of this site. Please
+note that this syllabus has been developed and tested on an Ubuntu 16.04
 workstation running a recent version of LaTeX that was manually installed using
 the TeXLive installer. It is also worth noting that you can also compile the
 syllabus using LaTeX development tools such as `latexmk`. If you are unable to
-compile the syllabus with your development tools and your execution
-environment, then please open a new issue and we will attempt to resolve your
-concerns.
+compile the syllabus with your development tools and your execution environment,
+then please open a new issue and we will attempt to resolve your concerns.
